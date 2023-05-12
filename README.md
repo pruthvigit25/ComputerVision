@@ -3,7 +3,7 @@
 This project focuses on applying various image filters and transformations using computer vision techniques. The goal is to extract useful information from digital images and enhance or modify them to improve visual analysis and interpretation. The project covers different types of filters and transformations and provides examples and results for each.
 
 **Part 1: Image Effects and Filters**
-In this section, several photo effects and filters are applied to images captured by the author. The following filters are implemented:
+In this section, several photo effects and filters are applied to images. The following filters are implemented:
 
 **Contrasting:** Enhances the colors and brightness of an image by adjusting pixel values based on their frequency distribution.
 
